@@ -22,4 +22,5 @@ public class RestClient {
     /* что-то поменял в main */
     /* что-то поменял в develop */
     /* решил конфликт при слиянии develop и main */
+    /* вновь меняем что-то в develop */
 }
