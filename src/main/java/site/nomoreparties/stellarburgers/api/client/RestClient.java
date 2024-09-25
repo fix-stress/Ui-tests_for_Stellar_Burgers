@@ -19,4 +19,5 @@ public class RestClient {
                 .setBaseUri(BASE_URL)
                 .build();
     }
+    /* что-то поменял в develop */
 }
